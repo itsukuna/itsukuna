@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/itsukuna"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
 
 <!--
 **itsayusharya/itsayusharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
